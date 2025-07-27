@@ -19,7 +19,7 @@ This project provides a simple API to send WhatsApp messages using FastAPI and t
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/Chitraksh-Sharma/pywhatkit_fast_api.git)
     cd <repository-directory>
     ```
 
